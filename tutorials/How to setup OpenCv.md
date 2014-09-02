@@ -30,11 +30,12 @@ Now we just need to configure the options for building inside cmake.
 
 My paths look like this (Note that this is from older versions of eigen and tbb):
 
+```
 Eigen_Include_Path should be C:/dev/eigen-3.2.1
 TBB_INCLUDE_DIR: C:/dev/tbb42_20140416oss/include
 TBB_LIB_DIR: C:/dev/tbb42_20140416oss/lib/intel64/vc12
 TBB_STDDEF_PATH: C:/dev/tbb42_20140416oss/include/tbb/tbb_stddef.h
-
+```
 
 
 ## Modules
