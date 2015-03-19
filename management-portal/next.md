@@ -1,4 +1,4 @@
-# Release Notes 18th April 2015
+# Release Notes (Planned) 20th April 2015
 version: tba
 
 ## Changes
