@@ -4,7 +4,7 @@
 
 #Introduction
 
-The AscendXYZ File system is composed of worksets and files. Worksets are containers that you as user can put any file into, that you would like stored in the AscendXYZ Platform. By using the AscendXYZ Portal, we will at AscendXYZ create views and data manipulations for you to gain the most of your geospatial data. All of the AscendXYZ Analytics also runs on top of this file system, such users and partners can generate new data based on the data they provide. 
+The AscendXYZ File system is composed of worksets and files. Worksets are containers that you as a user can put any file into, that you would like stored in the AscendXYZ Platform. By using the AscendXYZ Portal, we will at AscendXYZ create views and data manipulations for you to gain the most of your geospatial data. All of the AscendXYZ Analytics also runs on top of this file system, such users and partners can generate new data based on the data they provide. 
 
 One example of this is how our Map Production Pipeline works currently where users uploads their images and auxility data into a workset and by filling out a Map Production Request the pipeline is started, resulting in a generated AscendXYZ WebMap is produced and returned to the user. The users may then decide for them self where they would like to store the AscendXYZ WebMap within their subscription.
 
