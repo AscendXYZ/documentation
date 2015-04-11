@@ -7,6 +7,16 @@ If you prefer watching videos, we made this video for you going over the steps o
 
 https://vimeo.com/122953681
 
+and when successful logged in, you may also want to read:
+
+* [Understanding the AscendXYZ File System ](./Understanding the AscendXYZ File System.md)
+* [AscendXYZ Portal Interface Overview ](./AscendXYZ Portal Interface Overview.md)
+* [Ground Control Points(GCPs) and Georeferencing ](./Ground Control Points(GCPs) and Georeferencing.md)
+* [VIDEO: Package Manager and Map Production Price ](https://vimeo.com/123604920)
+* [VIDEO: Map Production Request ](https://vimeo.com/123826702)
+
+
+
 We support either signup with linkedIn (external accounts) or creating your own username and password (we will refer to this as a local account). Visiting https://portal.ascend.xyz you will be presented with either of the two above screens, depending on if you have successful signed in before. 
 
 ## LinkedIn
@@ -50,11 +60,12 @@ When successful authenticated to the portal you should see this dashboard.
 ![Dashboard](../images/dashboard.png)
 
 To learn more we have the following links you may read:
-[Understanding the AscendXYZ File System](./Understanding the AscendXYZ File System.md)
-[AscendXYZ Portal Interface Overview](./AscendXYZ Portal Interface Overview.md)
-[Ground Control Points(GCPs) and Georeferencing](./Ground Control Points(GCPs) and Georeferencing.md)
-[VIDEO: Package Manager and Map Production Price](https://vimeo.com/123604920)
-[VIDEO: Map Production Requestt](https://vimeo.com/123826702)
+
+* [Understanding the AscendXYZ File System ](./Understanding the AscendXYZ File System.md)
+* [AscendXYZ Portal Interface Overview ](./AscendXYZ Portal Interface Overview.md)
+* [Ground Control Points(GCPs) and Georeferencing ](./Ground Control Points(GCPs) and Georeferencing.md)
+* [VIDEO: Package Manager and Map Production Price ](https://vimeo.com/123604920)
+* [VIDEO: Map Production Request ](https://vimeo.com/123826702)
 
 
 
