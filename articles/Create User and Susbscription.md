@@ -31,7 +31,7 @@ We will in future releases work on integrating the identity server to the genera
 
 continuing the flow, it will slide right to the create subscription formula. If you intend to get your identity added to an existing subscription from your company, then you may continue to the verify email section and close browser at this stage. We will be adding in one of the upcoming released such subscriptions owners can add you to their existing subscription.
 
-![LinkedInStep2](../images/signup_linkedin_step2.png)
+![CreateSubscription](../images/signup_linkedin_step2.png)
 
 After having access to a subscription you can continue to the verify email section.
 
@@ -41,13 +41,20 @@ After having access to a subscription you can continue to the verify email secti
 Before being able to complete the login to your dashboard you must have verified you email account by clicking a link that we send to the email account you entered when signing up. We encourage you to put ascend.xyz and ascendxyz.com domains on your safe senders lists to not miss any important mails from us.
 
 Until your email has been verified, you will meet the following verification screen that also allows you to resend your verification link.
-![VerifyEmail](../images/signup_linkedin_step2.png)
+![VerifyEmail](../images/verify_email.png)
 
 
 ## Dashboard
 When successful authenticated to the portal you should see this dashboard.
 
-![VerifyEmail](../images/dashboard.png)
+![Dashboard](../images/dashboard.png)
 
 To learn more we have the following links you may read:
+[Understanding the AscendXYZ File System](./Understanding the AscendXYZ File System.md)
+[AscendXYZ Portal Interface Overview](./AscendXYZ Portal Interface Overview.md)
+[Ground Control Points(GCPs) and Georeferencing](./Ground Control Points(GCPs) and Georeferencing.md)
+[VIDEO: Package Manager and Map Production Price](https://vimeo.com/123604920)
+[VIDEO: Map Production Requestt](https://vimeo.com/123826702)
+
+
 
