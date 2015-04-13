@@ -3,11 +3,11 @@
 ![LoginScreens](../images/login_screens.png)
 
 
-If you prefer watching videos, we made this video for you going over the steps of creating an user, alternative you can continue reading below.
+If you prefer watching videos, we made this video for you going over the steps of creating a user, alternatively you can continue reading below.
 
 https://vimeo.com/122953681
 
-and when successful logged in, you may also want to read:
+and when you have successfully logged in, you may also want to read:
 
 * [Understanding the AscendXYZ File System ](./Understanding the AscendXYZ File System.md)
 * [AscendXYZ Portal Interface Overview ](./AscendXYZ Portal Interface Overview.md)
@@ -17,10 +17,10 @@ and when successful logged in, you may also want to read:
 
 
 
-We support either signup with linkedIn (external accounts) or creating your own username and password (we will refer to this as a local account). Visiting https://portal.ascend.xyz you will be presented with either of the two above screens, depending on if you have successful signed in before. 
+We support either signup with LinkedIn (external accounts) or creating your own username and password (we will refer to this as a local account). Visiting https://portal.ascend.xyz you will be presented with either of the two above screens, depending on if you have successfully signed in before. 
 
 ## LinkedIn
-For using your LinkedIn account please navigate to https://portal.ascend.xyz and click the linkedIn Icon, this will take you to linkedIn where you are asked to give consent and when coming back to the sign up formula, we have pre-filled it with the information we could get from linkedIn as seen in the image here:
+For using your LinkedIn account please navigate to https://portal.ascend.xyz and click the LinkedIn icon, this will take you to LinkedIn where you are asked to give consent and when coming back to the sign up formula, we have pre-filled it with the information we could get from linkedIn as seen in the image here:
 
 ![LinkedInStep1](../images/signup_linkedin_step1.png)
 
@@ -30,7 +30,7 @@ You can navigate directly to https://portal.ascend.xyz/#try-ascend-xyz for creat
 
 ![CreateAccount](../images/create_local_account.png)
 
-In step two of local accounts we need you to login at the identity server also with your just created username and password.
+In step two of local accounts, we also need you to login at the identity server with the username and password, that you just created.
 
 ![Idsrv](../images/idsrv.png)
 
@@ -39,23 +39,23 @@ We will in future releases work on integrating the identity server to the genera
 
 ##Subscriptions
 
-continuing the flow, it will slide right to the create subscription formula. If you intend to get your identity added to an existing subscription from your company, then you may continue to the verify email section and close browser at this stage. We will be adding in one of the upcoming released such subscriptions owners can add you to their existing subscription.
+Continuing the flow, it will slide right to the create subscription formula. If you intend to get your identity added to an existing subscription from your company, then you may continue to the verify email section and close the browser at this stage. We will be adding subscription owner identity in a future release. This role can add new to their existing subscription.
 
 ![CreateSubscription](../images/signup_linkedin_step2.png)
 
-After having access to a subscription you can continue to the verify email section.
+After succesfully accessing a subscription you can continue to the verify email section.
 
 
 ##Verify Email
 
-Before being able to complete the login to your dashboard you must have verified you email account by clicking a link that we send to the email account you entered when signing up. We encourage you to put ascend.xyz and ascendxyz.com domains on your safe senders lists to not miss any important mails from us.
+Before being able to complete the login to your dashboard you must have verified your email account by clicking a link that we send to the email account you entered when signing up. We encourage you to put ascend.xyz and ascendxyz.com domains on your safe senders lists to not miss any important mails from us.
 
 Until your email has been verified, you will meet the following verification screen that also allows you to resend your verification link.
 ![VerifyEmail](../images/verify_email.png)
 
 
 ## Dashboard
-When successful authenticated to the portal you should see this dashboard.
+When successfully authenticated to the portal you should see this dashboard.
 
 ![Dashboard](../images/dashboard.png)
 
