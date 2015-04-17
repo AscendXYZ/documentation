@@ -53,6 +53,9 @@ Before being able to complete the login to your dashboard you must have verified
 Until your email has been verified, you will meet the following verification screen that also allows you to resend your verification link.
 ![VerifyEmail](../images/verify_email.png)
 
+In those cases where your email program opens the links in a different browser than what you started the signup process in, you will be send to the identity server, asked to login again. Its important that you use the same kind of login that you started the flow, meaning if you started out using your linkedIn profile you need to press the linkedIn button at the right. If using local accounts with a username and password, you need to enter those and press log in.
+
+
 
 ## Dashboard
 When successfully authenticated to the portal you should see this dashboard.
