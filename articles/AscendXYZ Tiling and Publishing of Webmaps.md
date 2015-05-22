@@ -1,6 +1,6 @@
 #AscendXYZ GeoTIFF Tiling and Sharing of Webmaps
 
-If you are not a user of the AscendXYZ portal, go to portal.ascend.xyz and register, it is free:-) For more information on registering, go to: [Create User and Subscription](./Create User and Susbscription.md)
+If you are not a user of the AscendXYZ portal, go to **portal.ascend.xyz** and register, it is free:-) Go to: [Create User and Subscription](./Create User and Susbscription.md)
 
 ##Create tiles
 If you are already on the portal, follow these instructions to tile and publish your webmap.
