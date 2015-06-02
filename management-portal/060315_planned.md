@@ -4,6 +4,7 @@ version: TBA
 This is a major release that we are rolling out with many new features, updates and fixes. Help us prioritize what we work on at support.ascend.xyz
 
 ## Changes
+* Platform has been updated to Azure SDK 2.6
 * Tokens are renewed automatically, giving users a better experience when uploading data and running long running tasks in the portal. [ticket](http://support.ascend.xyz/forums/270649-general/suggestions/7641099-automatically-authenticate-when-oauth2-tokens-runs)
 * Tiling of GeoTIffs has been added, see package description below.
 * Updated all SSL Certificates to be compliant with market standards.
